@@ -1,0 +1,11 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "atom-material-syntax"
+    ]
+  "exception-reporting":
+    userId: "fe07b0d4-ea8f-4a61-b5d3-04d304a3445f"
+  github: {}
+  welcome: {}
