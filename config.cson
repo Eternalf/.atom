@@ -1,10 +1,26 @@
 "*":
+  Hydrogen: {}
+  "atom-material-ui":
+    colors:
+      abaseColor: "#0298ca"
+      accentColor: "#e8e8e8"
+      genAccent: true
+      paintCursor: true
+    fonts:
+      fontSize: 17
+    tabs:
+      compactTabs: true
+      stretchedTabs: true
+    ui:
+      panelShadows: true
   core:
     telemetryConsent: "no"
     themes: [
-      "one-dark-ui"
+      "atom-material-ui"
       "atom-material-syntax"
     ]
+  editor:
+    tabLength: 4
   "exception-reporting":
     userId: "fe07b0d4-ea8f-4a61-b5d3-04d304a3445f"
   github: {}
